@@ -1,0 +1,14 @@
+{
+  "chat": [
+    { "id" : 1, "userName": "Macan Tuli", "userId": 20, "chatId": "LoremIpsum", "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum." },
+    { "id" : 2, "userName": "Drakula Jokowi", "userId": 20, "chatId": "LoremIpsum", "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum." },
+    { "id" : 3, "userName": "Merak Imut", "userId": 20, "chatId": "LoremIpsum", "message": "umur kamu berapa?" },  
+    { "id" : 4, "userName": "Alien Botak", "userId": 20, "chatId": "LoremIpsum", "message": "aku dom bandung" },
+    { "id" : 5, "userName": "Ular Sawah", "userId": 20, "chatId": "LoremIpsum", "message": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum." },
+    { "id" : 6, "userName": "Cacing Lucu", "userId": 20, "chatId": "LoremIpsum", "message": "RPS yu" },
+    { "id" : 7, "userName": "Singa Ompong", "userId": 20, "chatId": "LoremIpsum", "message": "RPS yu" },
+    { "id" : 8, "userName": "Kuda Mandul", "userId": 20, "chatId": "LoremIpsum", "message": "RPS yu" },
+    { "id" : 9, "userName": "Angsa Pirang", "userId": 20, "chatId": "LoremIpsum", "message": "RPS yu" },
+    { "id" : 10, "userName": "ASU Pirang", "userId": 20, "chatId": "LoremIpsum", "message": "RPS yu" } 
+  ]
+}
